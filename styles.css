@@ -1,0 +1,15 @@
+<style>
+
+/* table {
+	margin-left: 0 !important;
+	}
+*/
+	
+.logos {
+	margin-top: 5%;
+	width: 50%;
+    display:grid;
+    grid-template-columns: auto auto;
+	column-gap: 10%;
+}
+</style>
