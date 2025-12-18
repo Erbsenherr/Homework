@@ -1,0 +1,11 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Generated RDF files
+*.ttl
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
